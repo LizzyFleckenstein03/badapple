@@ -1,0 +1,24 @@
+{
+  "name": "badapple",
+  "version": "1.0.0",
+  "description": "generate bad apple braille frames",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasFleckenstein03/badapple.git"
+  },
+  "author": "EliasFleckenstein03",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/EliasFleckenstein03/badapple/issues"
+  },
+  "homepage": "https://github.com/EliasFleckenstein03/badapple#readme",
+  "dependencies": {
+    "ffmpeg-extract-frames": "^2.0.2",
+    "image-size": "^1.0.1",
+    "seurat": "^0.0.4"
+  }
+}
